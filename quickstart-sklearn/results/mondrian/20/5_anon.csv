@@ -1,0 +1,3001 @@
+sex,age,race,marital-status,education,native-country,workclass,occupation,salary-class
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,>50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,White,Married-civ-spouse,High School,*,Private,Exec-managerial,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,United-States,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,High School,North America,Non-Government,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,High School,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,High School,United-States,Government,*,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,High School,United-States,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Government,*,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Self-emp-not-inc,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Government,Technical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Sales,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Tech-support,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,<=50K
+Female,*,*,spouse present,*,*,Government,*,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Self-emp-inc,Nontechnical,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Exec-managerial,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Other,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,White,Married-civ-spouse,High School,*,Self-emp-not-inc,Nontechnical,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Government,*,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Private,Handlers-cleaners,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Private,Handlers-cleaners,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Non-Government,Sales,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Prof-specialty,>50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Male,*,*,Married-civ-spouse,Higher education,*,Private,Exec-managerial,<=50K
+Female,*,*,spouse not present,*,*,Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Technical,<=50K
+Male,*,*,Married-civ-spouse,*,*,Non-Government,Craft-repair,>50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Other,<=50K
+Female,*,*,spouse present,*,*,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,*,Other,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,*,Non-Government,Technical,<=50K

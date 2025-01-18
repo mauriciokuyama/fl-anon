@@ -1,0 +1,3029 @@
+sex,age,race,marital-status,education,native-country,workclass,occupation,salary-class
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,>50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,>50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,*,White,*,*,*,*,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Private,*,>50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,North America,*,*,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,>50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,20-29,White,*,*,United-States,Private,*,>50K
+*,*,White,*,*,*,*,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,>50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,*,White,*,High School,*,Non-Government,*,>50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,North America,*,*,>50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Male,*,*,*,*,North America,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,40-59,*,*,*,North America,*,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,*,*,*,*,United-States,*,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,*,*,*,*,*,*,*,>50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+*,*,*,*,*,United-States,*,*,>50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,>50K
+*,*,White,*,*,*,*,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,*,White,*,*,*,*,*,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+*,40-59,*,*,*,*,*,*,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,>50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,>50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+*,*,White,*,*,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,>50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+Male,20-39,White,*,*,North America,*,Nontechnical,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,>50K
+Male,*,White,*,*,*,*,*,<=50K
+Male,*,*,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Private,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,>50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,>50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+*,*,White,spouse not present,*,*,*,*,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+*,*,*,*,Higher education,*,Private,*,>50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+*,*,White,*,*,*,*,*,>50K
+*,*,White,*,*,*,*,*,>50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,High School,United-States,*,*,<=50K
+*,*,White,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,>50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,>50K
+Male,*,*,*,*,*,Private,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,United-States,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,United-States,*,*,>50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,>50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+*,*,White,*,*,United-States,*,Other,<=50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,40-59,*,*,*,North America,*,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,*,*,*,*,*,*,*,>50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,*,*,*,*,*,Non-Government,*,>50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,>50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,>50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,*,*,*,*,*,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Male,*,*,*,*,*,Non-Government,*,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Male,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+*,40-59,*,*,*,*,*,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,*,*,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,White,*,*,United-States,*,Other,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Male,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,*,*,>50K
+*,40-59,*,*,*,*,*,*,>50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+*,40-59,*,*,*,North America,*,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+Male,*,White,*,*,United-States,*,*,>50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,*,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+*,*,*,*,*,*,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,White,*,*,*,*,*,>50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Private,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,*,*,*,Higher education,*,Non-Government,*,>50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Male,*,*,*,*,*,*,*,>50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+*,*,*,*,*,United-States,*,*,>50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,>50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,>50K
+Male,*,White,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,*,White,*,*,United-States,*,*,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+*,*,White,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+*,*,White,*,*,United-States,*,Other,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,White,*,*,*,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+*,40-59,*,*,*,*,Private,*,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+*,*,White,*,*,United-States,*,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,>50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,>50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,White,*,*,*,*,*,>50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,*,*,*,*,*,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,>50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,Government,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+*,*,*,*,Higher education,United-States,Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,*,White,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+Male,*,White,*,Higher education,United-States,Government,*,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+*,*,White,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,>50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+Male,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,>50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,North America,*,*,>50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,>50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+*,*,*,*,Higher education,United-States,Government,*,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,*,*,*,*,*,*,*,>50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+*,*,White,*,*,United-States,*,*,>50K
+*,*,*,*,*,North America,*,*,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Female,*,White,*,*,United-States,*,*,>50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,*,North America,*,*,>50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,>50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+Female,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+*,40-59,*,*,*,*,*,*,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+*,40-59,*,*,*,North America,*,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,20-39,White,*,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+*,*,White,*,*,United-States,*,Other,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,>50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,*,*,*,*,*,Non-Government,*,>50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+*,*,White,*,*,United-States,*,*,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,Private,*,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,*,*,North America,*,*,>50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,>50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+*,*,*,*,*,*,Private,*,>50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,>50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,>50K
+Female,*,White,*,*,United-States,Private,Nontechnical,>50K
+Male,*,White,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,*,*,*,*,*,*,*,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Male,*,White,*,*,United-States,*,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,>50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,>50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,>50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,White,*,*,United-States,*,*,>50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Female,*,White,*,*,United-States,*,*,>50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Male,*,*,*,*,North America,*,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,40-59,*,*,*,*,Private,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,*,White,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+*,*,White,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+*,*,*,*,*,North America,*,*,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,>50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,Higher education,*,Private,*,>50K
+*,*,White,*,*,United-States,*,*,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,*,White,*,*,United-States,*,*,>50K
+Male,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+*,*,*,*,Higher education,*,Private,*,>50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,*,*,*,*,United-States,*,*,>50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,*,White,*,*,United-States,*,*,>50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+*,*,White,*,*,*,*,*,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Male,*,White,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,>50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+*,*,White,*,*,*,*,*,>50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+*,*,*,*,*,North America,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,*,White,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,United-States,*,*,>50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,White,*,*,United-States,*,Other,>50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,>50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,>50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+*,40-59,*,*,*,North America,*,*,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+*,*,White,*,*,*,*,*,>50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+*,*,*,*,*,North America,*,*,>50K
+Male,*,*,*,*,*,*,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,>50K
+Male,*,*,*,Higher education,North America,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,<=50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,>50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,>50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+*,*,White,spouse not present,*,*,*,*,>50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,*,*,*,*,North America,Non-Government,Nontechnical,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,>50K
+*,*,*,*,*,*,*,*,>50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,*,White,*,*,*,*,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,*,*,*,>50K
+Male,*,*,*,*,*,Private,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Female,40-59,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+*,*,White,*,*,*,Non-Government,Nontechnical,>50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+*,*,White,*,*,*,*,*,>50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,>50K
+*,*,*,*,*,*,*,*,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,>50K
+*,*,White,*,*,*,*,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,*,*,>50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+*,*,White,*,*,United-States,*,*,>50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,>50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,<=50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Technical,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,Private,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,High School,North America,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,*,High School,*,Non-Government,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,*,*,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,*,Private,Technical,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,>50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,spouse present,Higher education,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,15-19,White,Never-married,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+*,*,*,*,Higher education,United-States,*,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,Higher education,United-States,*,*,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+Female,20-39,White,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,*,White,*,*,United-States,Non-Government,*,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,>50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,*,White,*,*,United-States,Private,Nontechnical,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Female,*,*,*,*,North America,*,*,>50K
+*,*,White,*,*,*,*,*,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,>50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,20-39,*,*,Higher education,North America,Private,*,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,*,*,*,*,*,Private,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,40-59,White,spouse not present,*,*,Private,*,>50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,White,spouse not present,Higher education,United-States,*,Prof-specialty,>50K
+Male,*,White,*,Higher education,United-States,Government,Other,<=50K
+Male,20-39,White,spouse not present,Higher education,United-States,Non-Government,Technical,<=50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,20-39,White,*,*,North America,*,Nontechnical,>50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+Male,*,White,*,Higher education,United-States,Government,*,>50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Private,Other,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,*,*,*,*,*,*,*,>50K
+Male,20-39,*,*,Higher education,*,*,*,>50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,>50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+*,20-39,*,Never-married,Higher education,North America,Private,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,*,*,*,Higher education,North America,*,*,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,*,*,*,*,*,*,*,>50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,*,*,Higher education,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,Higher education,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,>50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Technical,>50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+*,40-59,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Craft-repair,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Nontechnical,>50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,spouse not present,High School,United-States,Non-Government,Technical,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Nontechnical,>50K
+*,*,White,*,*,*,Non-Government,Nontechnical,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,*,spouse not present,*,*,*,*,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,>50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,40-59,*,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Female,*,*,*,*,North America,*,*,>50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+Male,*,*,*,*,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Female,20-39,White,spouse not present,Higher education,*,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,*,*,*,*,*,>50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Female,40-59,White,spouse not present,Some-college,United-States,Non-Government,Other,<=50K
+Male,20-39,White,Never-married,HS-grad,United-States,Private,Nontechnical,<=50K
+Male,20-39,White,Never-married,Higher education,United-States,Private,Other,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,>50K
+Female,20-39,White,Never-married,Higher education,United-States,Private,Technical,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+*,20-39,White,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+*,*,White,*,*,United-States,*,Other,>50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Female,20-39,White,Never-married,*,North America,Private,Other,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,>50K
+*,*,*,*,Higher education,United-States,Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,>50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+Male,20-39,*,*,HS-grad,United-States,*,Other,<=50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,>50K
+*,*,*,*,High School,United-States,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,United-States,Private,Exec-managerial,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,*,>50K
+*,15-19,White,Never-married,*,North America,Private,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,>50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+*,40-59,White,*,*,United-States,Non-Government,Nontechnical,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,Higher education,*,Non-Government,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,>50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+*,40-59,*,*,*,*,Private,*,<=50K
+Female,*,*,spouse not present,*,North America,Non-Government,*,<=50K
+Male,*,*,*,Higher education,North America,*,*,>50K
+Female,15-19,White,spouse not present,High School,North America,Private,*,<=50K
+Female,*,*,*,Higher education,North America,Non-Government,*,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,>50K
+*,*,White,spouse not present,*,*,*,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Other,<=50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,Craft-repair,<=50K
+Male,*,White,*,*,North America,Non-Government,Other,<=50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+*,40-59,*,*,*,*,*,*,>50K
+Female,*,*,spouse not present,High School,United-States,*,Other,<=50K
+Male,20-39,White,Married-civ-spouse,*,North America,Non-Government,*,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,>50K
+Female,20-39,*,Never-married,*,*,Private,*,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,>50K
+*,40-59,*,*,*,North America,*,*,<=50K
+Male,*,White,spouse not present,*,North America,Non-Government,Technical,<=50K
+*,*,White,*,*,United-States,*,Other,<=50K
+*,*,*,*,*,United-States,*,*,<=50K
+*,*,*,*,*,*,*,*,<=50K
+*,*,White,*,*,United-States,*,*,>50K
+*,*,White,*,*,United-States,*,*,>50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Machine-op-inspct,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,Higher education,United-States,*,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Female,20-39,White,Never-married,Undergraduate,United-States,*,*,<=50K
+Male,*,*,*,*,*,Private,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,>50K
+Male,*,White,*,High School,*,Non-Government,*,>50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,*,*,*,*,*,*,>50K
+Female,*,*,spouse not present,*,United-States,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Technical,<=50K
+Female,20-39,White,Never-married,Higher education,United-States,Non-Government,Other,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+*,*,*,Married-civ-spouse,High School,North America,Non-Government,Technical,<=50K
+Male,40-49,White,*,High School,*,Private,Nontechnical,<=50K
+Male,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Female,*,*,*,*,North America,*,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Female,*,White,*,*,United-States,*,*,<=50K
+Male,*,White,*,*,*,*,*,>50K
+*,*,*,*,*,*,Non-Government,*,<=50K
+Male,20-39,Black,*,High School,United-States,Non-Government,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,HS-grad,United-States,Private,Transport-moving,>50K
+Female,*,*,spouse not present,*,North America,Private,*,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,*,White,Married-civ-spouse,*,United-States,Non-Government,*,<=50K
+Male,*,White,*,High School,*,Non-Government,*,<=50K
+*,*,*,*,*,North America,Non-Government,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,20-39,White,spouse not present,*,North America,Non-Government,Other,<=50K
+Male,*,*,*,*,North America,*,*,<=50K
+Male,20-29,White,*,*,United-States,Private,*,<=50K
+Female,*,*,Never-married,Higher education,United-States,Non-Government,*,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+Male,*,White,Married-civ-spouse,HS-grad,United-States,Non-Government,Other,<=50K
+Male,40-59,White,*,*,*,Non-Government,*,<=50K
+*,*,White,*,*,United-States,*,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+Male,20-39,White,*,*,North America,Non-Government,*,<=50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+*,*,*,*,*,*,Private,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Nontechnical,>50K
+Male,20-39,White,spouse not present,Undergraduate,United-States,Non-Government,Nontechnical,<=50K
+*,*,White,*,*,North America,*,*,<=50K
+*,*,White,spouse not present,*,North America,*,Technical,<=50K
+Male,*,White,Never-married,*,United-States,*,Other-service,<=50K
+Male,*,*,*,*,*,*,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,*,White,*,Higher education,United-States,*,*,<=50K
+Male,20-39,White,Never-married,*,*,Non-Government,*,<=50K
+Male,*,White,spouse not present,*,United-States,*,Other,<=50K
+Male,*,White,Never-married,Higher education,United-States,Private,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,United-States,Private,Nontechnical,<=50K
+Female,*,Black,spouse not present,*,United-States,*,Other,<=50K
+Female,40-59,*,spouse not present,High School,North America,Private,*,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+Male,20-39,White,Married-civ-spouse,*,United-States,Private,Other,<=50K
+Male,*,*,spouse not present,Higher education,*,Private,Technical,<=50K
+Male,40-59,White,Married-civ-spouse,*,United-States,*,Other,<=50K
+*,*,*,*,Higher education,*,Private,*,<=50K
+Male,40-59,*,*,*,North America,Private,Craft-repair,<=50K
+*,*,*,*,*,*,*,*,<=50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Male,20-39,White,Never-married,High School,United-States,Private,Other,<=50K
+*,*,*,*,Higher education,United-States,Government,*,>50K
+Female,*,White,spouse not present,Higher education,United-States,Non-Government,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Male,*,White,*,*,North America,Non-Government,Other,>50K
+*,*,*,*,Higher education,United-States,*,*,>50K
+Male,20-39,White,Never-married,Higher education,United-States,Non-Government,Technical,>50K
+*,*,*,*,*,*,*,*,<=50K
+Female,40-59,White,spouse not present,*,*,Private,*,<=50K
+Male,*,White,Married-civ-spouse,Higher education,North America,*,Technical,<=50K
+*,20-39,White,*,High School,United-States,Non-Government,*,<=50K
+Male,*,*,*,*,*,*,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,Higher education,North America,Non-Government,Technical,>50K
+Female,20-39,*,spouse not present,*,North America,Private,*,<=50K
+*,*,*,*,*,North America,*,*,<=50K
+*,*,White,Married-civ-spouse,*,United-States,Non-Government,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,High School,United-States,Non-Government,Nontechnical,>50K
+Male,*,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,>50K
+Female,*,*,Widowed,*,North America,*,*,<=50K
+*,*,White,spouse not present,*,United-States,Non-Government,*,<=50K
+Male,20-39,*,*,*,North America,Private,Nontechnical,<=50K
+Male,20-39,White,Married-civ-spouse,Undergraduate,North America,Non-Government,Nontechnical,>50K
+Male,40-59,White,Married-civ-spouse,High School,United-States,Non-Government,*,<=50K
+*,*,White,*,*,*,*,*,<=50K
+*,*,*,*,*,*,*,*,>50K
+Female,15-19,White,Never-married,*,*,Private,*,<=50K
+Female,*,White,*,Higher education,United-States,*,Nontechnical,>50K
+*,*,*,*,*,North America,Non-Government,*,>50K
+*,*,*,*,*,*,*,*,<=50K
+Male,20-39,White,Married-civ-spouse,Higher education,United-States,Non-Government,Technical,<=50K
+Female,*,White,spouse not present,High School,United-States,Private,Other,<=50K
+*,*,White,*,Undergraduate,United-States,Private,*,<=50K
